@@ -30,7 +30,7 @@ These results suggest that robust radio-based SFR inference in the MeerKAT and S
 
 ## Example Result
 
-![Radio-SFR Relation](figures/figure1.pdf)
+![Radio-SFR Relation](figures/figure1.png)
 
 ## Key Results
 
