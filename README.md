@@ -54,6 +54,4 @@ These results suggest that robust radio-based SFR inference in the MeerKAT and S
 ```text
 paper/          -> Manuscript PDF and LaTeX source
 figures/        -> Figures used in the paper
-notebooks/      -> Analysis notebooks
 scripts/        -> Data processing and ML scripts
-data/           -> Processed data products (if public)
