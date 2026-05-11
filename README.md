@@ -28,6 +28,10 @@ These results suggest that robust radio-based SFR inference in the MeerKAT and S
 
 ---
 
+## Example Result
+
+![Radio-SFR Relation](figures/figure1.pdf)
+
 ## Key Results
 
 - Radio-only models saturate at R² ≲ 0.45
