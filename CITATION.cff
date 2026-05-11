@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Quantifying the Maximum Recoverable Variance in Star Formation Rate from 1.4 GHz Radio Continuum Emission"
+authors:
+  - family-names: Makechemu
+    given-names: Jason Shingirai
+  - family-names: Chibueze
+    given-names: James O.
+  - family-names: Simmons
+    given-names: Brooke D.
+date-released: 2026-05-08
+license: MIT
